@@ -1,0 +1,21 @@
+{
+  "name": "HedgeLinks",
+  "description": "An empty new project",
+  "slug": "hedge-links",
+  "privacy": "public",
+  "sdkVersion": "15.0.0",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "primaryColor": "#cccccc",
+  "icon": "./assets/images/logo.png",
+  "loading": {
+    "icon": "./assets/images/logo.png",
+    "hideExponentText": false
+  },
+  "packagerOpts": {
+    "assetExts": ["ttf", "mp4"]
+  },
+  "ios": {
+    "supportsTablet": true
+  }
+}
